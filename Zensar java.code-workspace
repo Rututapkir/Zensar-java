@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/junit-4.13.2"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\Rutuja\\Downloads\\junit-4.13.2.jar",
+			"c:\\Users\\Rutuja\\Downloads\\junit-4.13.2 (1).jar"
+		]
+	}
+}
